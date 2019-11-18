@@ -18,4 +18,3 @@ const ProviderMock = props => (
 );
 
 export default ProviderMock;
-
